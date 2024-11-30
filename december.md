@@ -3,4 +3,5 @@
 ## Day 1 - (30-11-2024)<br>
 - **Problems Solved:**
 - Problem 1:[Data Type Problem](https://practice.geeksforgeeks.org/problems/data-type-1666706751/1)
+- Problem 2:[Patterns 1](https://www.naukri.com/code360/problems/n-forest_6570177)
 
