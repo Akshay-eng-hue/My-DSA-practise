@@ -4,4 +4,4 @@
 - **Problems Solved:**
 - Problem 1:[Data Type Problem](https://practice.geeksforgeeks.org/problems/data-type-1666706751/1)
 - Problem 2:[Patterns 1](https://www.naukri.com/code360/problems/n-forest_6570177)
-
+- Problem 3:[Patterns 2](https://www.naukri.com/code360/problems/n-2-forest_6570178)
