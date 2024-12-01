@@ -16,4 +16,5 @@
 - **Problems Solved:** <br>
  - Problem 1:[Patterns 6](https://www.naukri.com/code360/problems/reverse-number-triangle_6581889)
  - Problem 2:[Patterns 7](https://www.naukri.com/code360/problems/star-triangle_6573671)
+ - Problem 3:[Patterns 8](https://www.naukri.com/code360/problems/reverse-star-triangle_6573685)
 
