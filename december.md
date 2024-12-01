@@ -11,6 +11,11 @@
 - **Key Learnings:**
  - Learned basic of C++.
  - Got an idea about Time and Space Complexity and tried to find time and space complexities for basic codes
+   ## Day 2 - (1-12-2024)<br>
+- **Problems Solved:** <br>
+ - Problem 1:[Patterns 6](https://www.naukri.com/code360/problems/reverse-number-triangle_6581889)
+ - Problem 2:[Patterns 7](https://www.naukri.com/code360/problems/star-triangle_6573671)
+ - Problem 3:[Patterns 8](https://www.naukri.com/code360/problems/reverse-star-triangle_6573685)
 
 
 
