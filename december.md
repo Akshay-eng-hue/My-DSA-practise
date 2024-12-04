@@ -24,9 +24,9 @@
 - **Key Learnings:**
 - Today i learned about C++ STL and practised it simultaneously.
 - Explored:
- Vectors
- Maps
- Sets
+ Vectors,
+ Maps,
+ Sets,
  Algorithms (like sort, binary search)
 
 
