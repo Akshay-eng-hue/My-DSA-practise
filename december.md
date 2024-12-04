@@ -19,7 +19,11 @@
 ## Day 3 and 4  - (3-12-2024)<br>
 - **Key Learnings:**
 - On Day 3 I Learned about stars patterns for logic building.
-- On Day 4 I learned about numbers and alphabet patterns and finally completed. 
+- On Day 4 I learned about numbers and alphabet patterns and finally completed.
+## Day 4 - (4-12-2024)<br>
+- **Key Learnings:**
+- Today i learned about C++ STL and practised it simultaneously.
+
 
 
 
