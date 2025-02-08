@@ -5,4 +5,5 @@ PROBLEM 4:[FIND IN MOUNTAIN ARRAY](https://leetcode.com/problems/find-in-mountai
 PROBLEM 5:[LONGEST MOUNTAIN IN ARRAY](https://leetcode.com/problems/longest-mountain-in-array/description/)<br>
 <br>
 RECURSIVE SUMS PRACTISE:<br>
-PROBLEM 1:[FIBONACCI NUMBER](https://leetcode.com/problems/fibonacci-number/description/)
+PROBLEM 1:[FIBONACCI NUMBER](https://leetcode.com/problems/fibonacci-number/description/)<br>
+PROBLEM 2:[POW(x,n)](https://leetcode.com/problems/powx-n/submissions/1536142864/)
