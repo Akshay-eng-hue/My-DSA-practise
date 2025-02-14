@@ -6,4 +6,5 @@ PROBLEM 5:[LONGEST MOUNTAIN IN ARRAY](https://leetcode.com/problems/longest-moun
 <br>
 RECURSIVE SUMS PRACTISE:<br>
 PROBLEM 1:[FIBONACCI NUMBER](https://leetcode.com/problems/fibonacci-number/description/)<br>
-PROBLEM 2:[POW(x,n)](https://leetcode.com/problems/powx-n/submissions/1536142864/)
+PROBLEM 2:[POW(x,n)](https://leetcode.com/problems/powx-n/submissions/1536142864/)<br>
+PROBLEM 3:[GREATEST COMMON DIVISOR](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
